@@ -1,0 +1,66 @@
+.body{
+    display: inline-block;
+    background-color:#fff;
+}
+    .header {
+        display: inline-block;
+        margin-top: 20px;
+        margin-left: calc(50% - 400px);
+        width: 800px;
+        float: left;
+
+    }
+        .logo{
+            display: inline-block;
+            float: left;
+
+        }
+        .link{
+            display: inline-block;
+            float: right;
+            font-size: 13px;
+            text-transform: uppercase;
+            text-decoration: none;
+            margin-left: 20px;
+
+        }
+    .main{
+        display: inline-block;
+        width: 800px;
+        margin-left: calc(50% - 400px);
+        float: left;
+
+    }
+        .photo{
+            display: inline-block;
+            width: 35%;
+            float: left;
+            margin-top: 50px;
+            margin-left: 5%;
+
+        }
+            .text{
+                display: inline-block;
+                width: 38%;
+                float: left;
+                margin-top: 200px;
+                margin-left: 5%;
+                margin-right: 17px;
+                text-align: center;
+
+             }
+                .tittle{
+                display: block;
+                font-size: 22px;
+                margin-bottom: 20px;
+
+                    }
+                .par{
+                    font-size: 12px;
+                    margin-bottom: 20px;
+
+                 }
+                .second{
+                    font-size: 15px;
+
+                 }
