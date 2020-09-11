@@ -15,9 +15,13 @@
             float: left;
 
         }
-        .link{
+        .nav{
             display: inline-block;
             float: right;
+        }
+        .link{
+            display: inline-block;
+            float: left;
             font-size: 13px;
             text-transform: uppercase;
             text-decoration: none;
